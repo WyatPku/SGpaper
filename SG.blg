@@ -1,0 +1,24 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: SG.aux
+The style file: ieee.bst
+Database file #1: SGbib.bib
+I was expecting a `,' or a `}'---line 13 of file SGbib.bib
+ :  
+ :  year = {2014}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 38 of file SGbib.bib
+ :  number={7}
+ :            ，
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 44 of file SGbib.bib
+ :  author={V Coskun，B Ozdenizci，K Ok}
+ :                                        ，
+I'm skipping whatever remains of this entry
+Warning--there's a number but no volume in WTraMag
+Warning--there's a number but no volume in magP
+Warning--empty year in magP
+Warning--empty year in pocketC
+Warning--empty journal in SurNfc
+Warning--empty year in SurNfc
+Warning--there's a number but no volume in SWless
+(There were 3 error messages)
