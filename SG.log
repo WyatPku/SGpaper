@@ -1,9 +1,21 @@
+<<<<<<< HEAD
 This is XeTeX, Version 3.14159265-2.6-0.99992 (MiKTeX 2.9) (preloaded format=xelatex 2016.11.15)  2 MAY 2017 18:35
 entering extended mode
 **./SG.tex
 (SG.tex
 LaTeX2e <2016/03/31>
 Babel <3.9q> and hyphenation patterns for 1 language(s) loaded.
+=======
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.3.7)  16 MAY 2017 23:24
+entering extended mode
+**C:/Users/37754/Documents/nextcloud/北大笔记/中国近现代史纲要/SGpa
+per/SG.tex
+
+(C:/Users/37754/Documents/nextcloud/北大笔记/中国近现代史纲要/SGpap
+er/SG.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+>>>>>>> 8ebb9f847f372ce31687ab63fee1923c4e678bab
 (C:\CTEX\MiKTeX\tex\latex\base\article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (C:\CTEX\MiKTeX\tex\latex\base\size10.clo
@@ -1239,6 +1251,7 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+<<<<<<< HEAD
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (SG.aux
 Invalid UTF-8 byte or sequence at line 2 replaced by U+FFFD.
@@ -1265,6 +1278,12 @@ Invalid UTF-8 byte or sequence at line 5 replaced by U+FFFD.
 )
 \openout1 = `SG.aux'.
 
+=======
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(C:\Users\37754\Documents\nextcloud\北大笔记\中国近现代史纲要\SGpap
+er\SG.aux)
+>>>>>>> 8ebb9f847f372ce31687ab63fee1923c4e678bab
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
@@ -1435,6 +1454,7 @@ Requested font "msam7" at 6.0pt
 LaTeX Font Info:    Try loading font information for U+msb on input line 20.
 
 (C:\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
+<<<<<<< HEAD
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Requested font "msbm10" at 12.045pt
@@ -2588,6 +2608,68 @@ Overfull \hbox (6.5617pt too wide) in paragraph at lines 25--26
 \EU1/SimSun(0)/m/n/10.53937 壬 \EU1/ptm/m/n/10.53937 ��?�?����й�±?����������ķ¢չ£
 ¬¶��й�±?�u���������?�����лª������ʶµ�?��ѣ¬?«�лª������?��һ?�ͳһµ����
  []
+=======
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 21.
+Package CJKpunct Info: punctuation spaces for family 'zhsong' do not exist. Use
+ family 'def' instead. on input line 25.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
+ [1
+
+] [2]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 58.
+ [3] [4] [5] [6]
+(C:\Users\37754\Documents\nextcloud\北大笔记\中国近现代史纲要\SGpap
+er\SG.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+) [7]
+(C:\Users\37754\Documents\nextcloud\北大笔记\中国近现代史纲要\SGpap
+er\SG.aux) ) 
+Here is how much of TeX's memory you used:
+ 10170 strings out of 495354
+ 160693 string characters out of 3183860
+ 202907 words of memory out of 3000000
+ 13092 multiletter control sequences out of 15000+200000
+ 52068 words of font info for 160 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 36i,6n,28p,1114b,461s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDO
+WS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><
+C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simh
+ei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fo
+nts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WI
+NDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.tt
+f><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/s
+imhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS
+/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:
+/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun
+.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Font
+s/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WIND
+OWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf>
+<C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/sim
+hei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/F
+onts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf>{C:/CTEX/MiKTeX/fonts/enc/dvips/fo
+ntname/8r.enc}<C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WIN
+DOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc
+><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/si
+msun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/
+Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/
+WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.
+ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts
+/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/CTEX/MiKTeX/fonts/type1/urw/times/
+utmb8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
+Output written on SG.pdf (7 pages, 442879 bytes).
+PDF statistics:
+ 283 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> 8ebb9f847f372ce31687ab63fee1923c4e678bab
 
 Invalid UTF-8 byte or sequence at line 27 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 27 replaced by U+FFFD.
