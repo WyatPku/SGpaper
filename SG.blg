@@ -1,18 +1,5 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: SG.aux
-The style file: ieee.bst
 I found no \citation commands---while reading file SG.aux
-Database file #1: SGbib.bib
-I was expecting a `,' or a `}'---line 13 of file SGbib.bib
- :  
- :  year = {2014}
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 38 of file SGbib.bib
- :  number={7}
- :            ，
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 44 of file SGbib.bib
- :  author={V Coskun，B Ozdenizci，K Ok}
- :                                        ，
-I'm skipping whatever remains of this entry
-(There were 4 error messages)
+I found no \bibdata command---while reading file SG.aux
+I found no \bibstyle command---while reading file SG.aux
+(There were 3 error messages)
