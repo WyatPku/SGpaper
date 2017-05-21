@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2016.12.5)  22 MAY 2017 00:57
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2016.12.5)  22 MAY 2017 01:01
 entering extended mode
 **C:/Users/37754/Documents/nextcloud/北大笔记/中国近现代史纲要/SGpa
 per/SG.tex
@@ -381,9 +381,6 @@ LaTeX Warning: Label `' multiply defined.
 
 LaTeX Warning: Label `' multiply defined.
 
-
-LaTeX Warning: Label `' multiply defined.
-
 )
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
@@ -518,10 +515,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 9089 strings out of 495354
- 148576 string characters out of 3183859
+ 9085 strings out of 495354
+ 148466 string characters out of 3183859
  190770 words of memory out of 3000000
- 12068 multiletter control sequences out of 15000+200000
+ 12064 multiletter control sequences out of 15000+200000
  42109 words of font info for 143 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  36i,6n,28p,1114b,466s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -551,7 +548,7 @@ ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/CTEX/MiKTeX/f
 onts/type1/public/amsfonts/cm/cmbx10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmbx12.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
 :/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on SG.pdf (9 pages, 482981 bytes).
+Output written on SG.pdf (9 pages, 482656 bytes).
 PDF statistics:
  296 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
